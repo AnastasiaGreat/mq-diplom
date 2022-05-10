@@ -146,6 +146,11 @@ body {
   list-style-type: none;
 }
 
+.card-tag-categorial {
+  display: flex;
+  list-style-type: none;
+}
+
 .tag-button {
   margin-bottom: 6px;
   margin-right: 19px;
