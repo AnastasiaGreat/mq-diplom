@@ -116,7 +116,6 @@ body {
 }
 
 .card-line {
-/*   margin-right: 120px; */
   display: flex;
   flex-direction: row;
 }
